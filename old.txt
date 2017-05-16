@@ -1,0 +1,533 @@
+<!--     <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 30px">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">پاپکورن</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">پاپکورن چیست؟</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">ویدئوها</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">بخش ها</a>
+                    </li>
+                    <li>
+                        <a  class="page-scroll " href="#team" > درباره ما</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">دنبال کنید</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container" style="font-size: 70px">
+            <div class="intro-text">
+                <div style="font-size: 35px" class="intro-lead-in">هر چهارشنبه ساعت 18</div>
+                <div style="color: #fed136" class="intro-heading">پخش اختصاصی از آپارات</div>
+                <a href="#services" class="page-scroll"><img src="img/new/logo.jpg" height="20%" width="20%"></a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2  style="font-family: shekari" class="section-heading">پاپکورن چیست؟</h2>
+                    <h3  style="font-family: shekari;font-size: 30px" class="section-subheading text-muted">پاپکورن یک شو اینترنتی است که به صورت هفتگی با نگاهی متفاوت به سینمای جهان می پردازد. این برنامه از طریق سرویس آپارات پخش می شود.</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <img src="img/gallery/g01.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+
+                <div class="col-md-4">
+                    <img src="img/gallery/g02.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+                <div class="col-md-4">
+                    <img src="img/gallery/g04.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <img src="img/gallery/g05.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+
+                <div class="col-md-4">
+                    <img src="img/gallery/g06.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+                <div class="col-md-4">
+                    <img src="img/gallery/g07.jpg" height="100%" width="100%" style="padding: 5px">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+ <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 style="font-family: shekari" class="section-heading">ویدئوها</h2>
+                </div>
+            </div> 
+            
+            <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home" style="font-size:30px">
+        فصل دوم
+        </a></li>
+    <li><a data-toggle="tab" href="#menu1"  style="font-size:30px">
+        فصل اول
+        </a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+<br>
+
+        <div class="row">
+                <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/n2zX9">
+                    <a href="http://www.aparat.com/v/n2zX9" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e07.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت هفتم</h4>
+                        <a  href="http://www.aparat.com/v/n2zX9" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">زیبایی کوچک...</a>
+                    </div>
+                </div>
+                            <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/gAyPp">
+                    <a href="http://www.aparat.com/v/gAyPp" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e08.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت هشتم</h4>
+                        <a  href="http://www.aparat.com/v/gAyPp" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">جهنم خیس</a>
+                    </div>
+                </div>
+                                   <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/JROVC">
+                    <a href="http://www.aparat.com/v/JROVC" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e09.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت نهم</h4>
+                        <a  href="http://www.aparat.com/v/JROVC" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">سلاخی</a>
+                    </div>
+                </div>
+            
+                                              <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/gOiHs">
+                    <a href="http://www.aparat.com/v/gOiHs" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e10.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت دهم</h4>
+                        <a  href="http://www.aparat.com/v/gOiHs" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">خداحافظ ل...</a>
+                    </div>
+                </div>
+            
+                                                          <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/gOiHs">
+                    <a href="http://www.aparat.com/v/1M3od" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e11.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت یازدهم</h4>
+                        <a  href="http://www.aparat.com/v/1M3od" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">رقص با ستارگان</a>
+                    </div>
+                </div>
+            
+                                                                      <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/VZozX">
+                    <a href="http://www.aparat.com/v/VZozX" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e12.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت دوازدهم</h4>
+                        <a  href="http://www.aparat.com/v/VZozX" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">سقوط هواپیما</a>
+                    </div>
+                </div>
+
+                
+      </div>
+                <div class="row">
+
+
+                                                                                  <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/6cXe3">
+                    <a href="http://www.aparat.com/v/6cXe3" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e13.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت سیزدهم</h4>
+                        <a  href="http://www.aparat.com/v/6cXe3" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">آتش سوزی در سکوی نفتی</a>
+                    </div>
+                </div>
+                                                                                                      <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/y4Q2x">
+                    <a href="http://www.aparat.com/v/y4Q2x" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e14.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت چهاردهم</h4>
+                        <a  href="http://www.aparat.com/v/y4Q2x" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">شکارچی، هیتلر</a>
+                    </div>
+                </div>
+                    
+                                                                                                                          <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/LDhJ5">
+                    <a href="http://www.aparat.com/v/LDhJ5" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e15.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت پانزدهم</h4>
+                        <a  href="http://www.aparat.com/v/LDhJ5" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">قبل از مرگ ببینید</a>
+                    </div>
+                </div>
+                    
+                                                                                                                                        <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/LDhJ5">
+                    <a href="http://www.aparat.com/v/Tebpl" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e16.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت شانزدهم</h4>
+                        <a  href="http://www.aparat.com/v/Tebpl" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">پاپکورن ویژه - چه خبر از اسکار؟</a>
+                    </div>
+                </div>
+                    
+                                                                                                                                                            <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/LDhJ5">
+                    <a href="http://www.aparat.com/v/DWTZx" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e17.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت هفدهم</h4>
+                        <a  href="http://www.aparat.com/v/DWTZx" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">پاپکورن 2017 - و باز هم سریع و خشن!</a>
+                    </div>
+                </div>
+                    
+                                                                                                                                                                                <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/LDhJ5">
+                    <a href="http://www.aparat.com/v/ZL27E" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e18.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت هجدهم</h4>
+                        <a  href="http://www.aparat.com/v/ZL27E" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">پاپکورن 2017 (بخش دوم) - از زن اسرار آمیز چه خبر؟</a>
+                    </div>
+                </div>
+                    
+                                                                                                                                                                                                    <div class="col-md-4 col-sm-12 portfolio-item" href="http://www.aparat.com/v/LDhJ5">
+                    <a href="http://www.aparat.com/v/g2oOR" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e19.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت نوزدهم</h4>
+                        <a  href="http://www.aparat.com/v/g2oOR" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">پایان فصل دوم پاپکورن - نبرد نهایی</a>
+                    </div>
+                </div>
+                
+      </div>
+     </div>
+    <div id="menu1" class="tab-pane fade">
+<br>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item" href="http://www.aparat.com/v/9ck2E">
+                    <a href="http://www.aparat.com/v/9ck2E" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e01.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت اول</h4>
+                        <a  href="http://www.aparat.com/v/9ck2E" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">۸+۱ نفرت انگیز - حتی فراتر از بتمن و سوپرمن</a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item" href="http://www.aparat.com/v/9ck2E">
+                    <a href="http://www.aparat.com/v/CQi9E" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e02.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت  دوم</h4>
+                        <a  href="http://www.aparat.com/v/CQi9E" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">از کوهستان راکی تا سطح مریخ</a>
+                    </div>
+                </div>
+                
+            
+      
+                <div class="col-md-4 col-sm-6 portfolio-item" href="http://www.aparat.com/v/cZ9dY">
+                    <a href="http://www.aparat.com/v/cZ9dY" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e03.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت سوم</h4>
+                        <a  href="http://www.aparat.com/v/cZ9dY" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">از یک اتاق تا قلب تابستان</a>
+                    </div>
+                </div>
+             
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.aparat.com/v/5jFpN" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e04.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت چهارم</h4>
+                        <a  href="http://www.aparat.com/v/5jFpN" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">پیروزی جوی، شکست کاپیتان</a>
+                    </div>
+                </div>
+         
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.aparat.com/v/DIru0" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e05.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت پنجم</h4>
+                        <a  href="http://www.aparat.com/v/DIru0" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">و اینک آخرالزمان</a>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.aparat.com/v/zSfqG" class="portfolio-link" data-toggle="modal">
+                        <img src="img/ep/e06.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="font-family: shekari;font-size: 40px">قسمت ششم</h4>
+                        <a  href="http://www.aparat.com/v/zSfqG" class="text-muted" style="text-decoration: none;font-size: 30px" class="text-muted">یه حلقه ی طلایی ...</a>
+                    </div>
+                </div>
+                
+      
+      </div>
+  </div>
+           
+
+            
+
+
+        </div>
+    </section>
+
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 style="font-family: shekari" class="section-heading">بخش ها</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/icn/news-ic.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 style="font-family: shekari;font-size: 40px" class="subheading">بخش خبر:</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p  style="text-align: justify;font-size: 30px" class="text-muted">هر روز در دنیای سینما شاهد اتفاقات متفاوتی هستیم، بهترین این اخبار و حواشی را در برنامه ی ما ببینید.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/icn/sp-icn.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 style="font-family: shekari;font-size: 40px" class="subheading">بخش ویژه: </h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p  style="text-align: justify;font-size: 30px" class="text-muted">معرفی و بررسی بهترین فیلم های روز دنیا که با کیفیت خوب در دسترس همگان قرار گرفته اند.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/icn/rw-icn.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <div class="timeline-heading">
+                                        <h4 style="font-family: shekari;font-size: 40px" class="subheading">بخش بررسی:</h4>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p  style="text-align: justify;font-size: 30px" class="text-muted">معرفی و بررسی بهترین فیلم های روز دنیا که با کیفیت خوب در دسترس همگان قرار گرفته اند.</p>
+                                    </div>
+                            </div>
+                                </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/icn/sb-icn.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 style="font-family: shekari;font-size: 40px" class="subheading">سکانس برتر:</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p  style="text-align: justify;font-size: 30px" class="text-muted">بهترین سکانس ها از بهترین فیلم های جهان پیش روی شما قرار می گیرد.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4 style="font-family: shekari;font-size: 40px">پایان</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading" style="font-family: shekari;font-size: 80px">درباره ما</h2>
+                    <br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/pers/pers01.jpg" class="img-responsive img-circle" alt="">
+                        <h4 style="font-family: shekari;font-size: 40px">محمد میرزاجانی</h4>
+                        <p class="text-muted" style="font-size: 30px" >کارگردان، تهیه کننده و مجری طرح</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://t.me/Mirza29"><i class="fa fa-send"></i></a>
+                            </li>
+                            <li><a href="https://www.instagram.com/mohammadmirzajanii/"><i class="fa fa-instagram"></i></a>
+                    
+                        </ul>
+                    </div>
+                </div>
+                                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/pers/pers02.jpg" class="img-responsive img-circle" alt="">
+                        <h4 style="font-family: shekari;font-size: 40px">سپهر بهنامی</h4>
+                        <p class="text-muted" style="font-size: 30px" > نویسنده، مجری طرح</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://ir.linkedin.com/in/sepehr-behnami-889ab092"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li><a href="https://sepehr3b.github.io/info/index.html"><i class="fa fa-globe"></i></a>
+                    
+                        </ul>
+                    </div>
+                </div>
+                                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/pers/pers03.jpg" class="img-responsive img-circle" alt="">
+                        <h4 style="font-family: shekari;font-size: 40px">علی رفیعی ناجی</h4>
+                        <p class="text-muted" style="font-size: 30px" >فیلمبردار و عکاس</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li><a href="https://www.instagram.com/ali.rafieii/"><i class="fa fa-instagram"></i></a>
+                    
+                        </ul>
+                    </div>
+                </div>
+                                                <div class="col-sm-4">
+                </div>
+                                <div class="col-sm-4" style="text-align: justify" >
+                    <div class="team-member">
+                        <img src="img/pers/pers04.jpg" class="img-responsive img-circle" alt="">
+                        <h4 style="font-family: shekari;font-size: 40px">وحید گروسی</h4>
+                        <p class="text-muted" style="font-size: 30px" >تدوینگر</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://t.me/VahidGarousi"><i class="fa fa-send"></i></a>
+                            </li>
+                            <li><a href="https://www.instagram.com/vahidgarousi_/"><i class="fa fa-instagram"></i></a>
+                    
+                        </ul>
+                    </div>
+                </div>
+
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    
+                    
+                    
+                    
+                    <div class="list-group">
+
+                        <a  class="list-group-item" style="font-size: 30px">
+                        اجرا: امیر حسینی، محمد صادق بیگی
+                        </a>
+                        <a  class="list-group-item" style="font-size: 30px">
+                        منتقدین فصل 1: علیرضا تقدیری، مهدی محمد نژاد
+                        </a>
+                        <a class="list-group-item" style="font-size: 30px">
+منتقدین فصل 2: هاله یگانه، محمدرضا نوروزی، ایمان حاجی کریمی                     
+                        </a>
+                        <a  class="list-group-item" style="font-size: 30px">
+فیلمبردار فصل 1: محمد نوبختس
+                        </a>
+                                                <a  class="list-group-item" style="font-size: 30px">
+منشی صحنه: هدی برجی خانی                        </a>
+                                                                        <a  class="list-group-item" style="font-size: 30px">
+طراح لوگو: مهدی چابک                        </a>
+                                                                                                <a  class="list-group-item" style="font-size: 30px">
+مدیر تولید: رامین افشار، پیام حسینی                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container text-center">
+            <h1 style="color: white;font-family: shekari;font-size: 50px">ما را در شبکه های اجتماعی دنبال کنید.</h1>
+            <div class="social" style="color: black;font-size: 50px">
+                <a class="sol" href="https://www.instagram.com/showpopcorn/"><i style="color: white" class="sol fa fa-instagram "></i></a>
+                <a class="sol" href="https://telegram.me/popcornshow"><i  style="color: white" class="sol fa fa-send"></i></a>
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span style="font-family: 'Arial'" class="copyright">Copyright &copy; PopcornShow 2014 - 2017</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="https://telegram.me/mirza29"><i class="fa fa-send"></i></a>
+                        </li>
+                        <li><a href="Popcornshowmail@gmail.com"><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <a  href="https://ir.linkedin.com/in/sepehr-behnami-889ab092" style="color: darkred ;font-family: 'Arial'" class="copyright">Design by Sepehr Behnami</a>
+                </div>
+            </div>
+        </div>
+    </footer> 
